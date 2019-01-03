@@ -1,0 +1,88 @@
+{
+  "dogs":[
+    {
+        "content_text":"Labrador Retriever",
+        "facet":"Purebred",
+        "category":"Canada, USA",
+        "start_date":"Cheerful",
+        "end_date":"Gentle"
+    },
+    {
+        "content_text":"German Shepherd",
+        "facet":"Purebred",
+        "category":"Germany",
+        "start_date":"Courageous",
+        "end_date":"Intelligent"
+    },
+    {
+        "content_text":"Golden Retriever",
+        "facet":"Purebred",
+        "category":"United Kingdom",
+        "start_date":"Intelligent",
+        "end_date":"Friendly"
+    },
+    {
+        "content_text":"French Bulldog",
+        "facet":"Purebred",
+        "category":"France, UK",
+        "start_date":"Playful",
+        "end_date":"Sociable"
+    },
+    {
+        "content_text":"Bulldog",
+        "facet":"Purebred",
+        "category":"United Kingdom",
+        "start_date":"Friendly",
+        "end_date":"Docile"
+    },
+    {
+        "content_text":"Beagle",
+        "facet":"Purebred",
+        "category":"United Kingdom",
+        "start_date":"Even Tempered",
+        "end_date":"Determined"
+    },
+    {
+        "content_text":"Poodle",
+        "facet":"Purebred",
+        "category":"Germany, France",
+        "start_date":"Trainable",
+        "end_date":"Faithful"
+    },
+    {
+        "content_text":"Rottweiler",
+        "facet":"Purebred",
+        "category":"Germany",
+        "start_date":"Confident",
+        "end_date":"Fearless"
+    },
+    {
+        "content_text":"Yorkshire Terrier",
+        "facet":"Purebred",
+        "category":"United Kingdom",
+        "start_date":"Independent",
+        "end_date":"Courageous"
+    },
+    {
+        "content_text":"Boxer",
+        "facet":"Purebred",
+        "category":"Germany",
+        "start_date":"Devoted",
+        "end_date":"Friendly"
+    },
+    {
+        "content_text":"Siberian Husky",
+        "facet":"Purebred",
+        "category":"Russia",
+        "start_date":"Outgoing",
+        "end_date":"Intelligent"
+    },
+    {
+        "content_text":"Shih Tzu",
+        "facet":"Purebred",
+        "category":"China",
+        "start_date":"Friendly",
+        "end_date":"Playful"
+    }
+]
+}
